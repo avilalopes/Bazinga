@@ -1,0 +1,16 @@
+D:\git\Bazinga!\bin\Debug\net5.0\Bazinga!.exe
+D:\git\Bazinga!\bin\Debug\net5.0\Bazinga!.deps.json
+D:\git\Bazinga!\bin\Debug\net5.0\Bazinga!.runtimeconfig.json
+D:\git\Bazinga!\bin\Debug\net5.0\Bazinga!.runtimeconfig.dev.json
+D:\git\Bazinga!\bin\Debug\net5.0\Bazinga!.dll
+D:\git\Bazinga!\bin\Debug\net5.0\ref\Bazinga!.dll
+D:\git\Bazinga!\bin\Debug\net5.0\Bazinga!.pdb
+D:\git\Bazinga!\obj\Debug\net5.0\Bazinga!.csprojAssemblyReference.cache
+D:\git\Bazinga!\obj\Debug\net5.0\Bazinga!.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\Bazinga!\obj\Debug\net5.0\Bazinga!.AssemblyInfoInputs.cache
+D:\git\Bazinga!\obj\Debug\net5.0\Bazinga!.AssemblyInfo.cs
+D:\git\Bazinga!\obj\Debug\net5.0\Bazinga!.csproj.CoreCompileInputs.cache
+D:\git\Bazinga!\obj\Debug\net5.0\Bazinga!.dll
+D:\git\Bazinga!\obj\Debug\net5.0\ref\Bazinga!.dll
+D:\git\Bazinga!\obj\Debug\net5.0\Bazinga!.pdb
+D:\git\Bazinga!\obj\Debug\net5.0\Bazinga!.genruntimeconfig.cache
